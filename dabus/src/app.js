@@ -1,5 +1,6 @@
 import React from "react";
 import "./style/index.scss";
+import Footer from "./components/footer-template/index.js";
 
 function App() {
   return (
