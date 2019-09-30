@@ -5,7 +5,7 @@ export default class Footer extends Component {
   render() {
     return (
       <div {...this.props}>
-        <div className={style.container}></div>
+        <div className={style.container}>this is the footer</div>
       </div>
     );
   }
