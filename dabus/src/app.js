@@ -1,6 +1,7 @@
 import React from "react";
 import "./style/index.scss";
-import Footer from "./components/footer-template/index.js";
+//import Footer from "./components/footer-template/index.js";
+import Nav from "./components/nav/index.js";
 
 function App() {
   return (
@@ -9,7 +10,7 @@ function App() {
         <h1>Da Bus Hawaii</h1>
         <p>coming soon...</p>
       </header>
-      <Footer></Footer>
+      <Nav></Nav>
     </div>
   );
 }
