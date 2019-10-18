@@ -13,6 +13,8 @@ function App() {
     <div className={style.MainContainer}>
       <Router>
         <Nav></Nav>
+        <Switch>
+        </Switch>
       </Router>
     </div>
   );
