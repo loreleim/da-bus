@@ -6,7 +6,9 @@ export default class CornerLogo extends Component {
   render() {
     return (
       <div className={style.container}>
-        <LogoSVG></LogoSVG>
+        <a href="https://google.com">
+          <LogoSVG></LogoSVG>
+        </a>
       </div>
     );
   }
