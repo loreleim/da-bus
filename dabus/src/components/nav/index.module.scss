@@ -1,17 +1,18 @@
 @import "../../style/variables.scss";
 
 .container {
-  padding: 1rem;
+  padding: 1.5rem;
   bottom: 0;
   height: 10vh;
   width: 100%;
   position: fixed;
   background-color: $primarycolor;
   color: white;
-  font-family: "Open Sans", sans-serif;
+  font-family: "Fira Sans", sans-serif;
 }
 
 li {
-  padding: 1rem;
+  font-size: 0.75rem;
+  padding: 0.5rem;
   display: inline;
 }
