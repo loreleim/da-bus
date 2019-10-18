@@ -1,16 +1,16 @@
 import React from "react";
-import { Link } from "react-router-dom";
-import Container from "../components/container";
+//import { Link } from "react-router-dom";
+import style from "./index.module.scss";
 
 class Home extends React.Component {
   render() {
     return (
-      <Container>
-        <div>Something</div>
-        <Link>Example</Link>
-      </Container>
+      <div className={style.container}>
+        <h1>Da Bus</h1>
+        <p>coming soon</p>
+      </div>
     );
   }
 }
 
-export default inject("appData")(observer(Home));
+export default Home;
