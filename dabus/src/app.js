@@ -10,6 +10,9 @@ import Login from "./pages/login/index.js";
 
 function App() {
   return (
+    <div className={style.MainContainer}>
+      <Router>
+      </Router>
     </div>
   );
 }
