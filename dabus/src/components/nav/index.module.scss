@@ -16,3 +16,10 @@ li {
   padding: 0.5rem;
   display: inline;
 }
+
+a:link,
+a:visited,
+a:active {
+  color: white;
+  text-decoration: none;
+}
