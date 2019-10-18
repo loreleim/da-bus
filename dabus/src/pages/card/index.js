@@ -4,15 +4,15 @@ import { observer, inject } from "mobx-react";
 import Container from "../components/container";
 import style from "./index.module.scss";
 
-class Home extends React.Component {
+class Card extends React.Component {
   render() {
     return (
       <Container>
-        <div>Something</div>
-        <Link>Example</Link>
+        <div>Reload your HoloCard</div>
+        <Link>coming soon</Link>
       </Container>
     );
   }
 }
 
-export default inject("appData")(observer(Home));
+export default inject("appData")(observer(Card));
