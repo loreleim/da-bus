@@ -12,6 +12,7 @@ function App() {
   return (
     <div className={style.MainContainer}>
       <Router>
+        <Nav></Nav>
       </Router>
     </div>
   );
