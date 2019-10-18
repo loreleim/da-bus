@@ -18,6 +18,7 @@ function App() {
           <Route path="/fares" component={Fares}></Route>
           <Route path="/tripplanner" component={TripPlanner}></Route>
           <Route path="/about" component={About}></Route>
+          <Route path="/login" component={Login}></Route>
         </Switch>
       </Router>
     </div>
