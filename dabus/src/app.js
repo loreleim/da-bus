@@ -4,6 +4,7 @@ import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
 import Nav from "./components/nav/index.js";
 import Home from "./pages/home/index.js";
 import Fares from "./pages/fares/index.js";
+import TripPlanner from "./pages/trip-planner/index.js";
 
 function App() {
   return (
