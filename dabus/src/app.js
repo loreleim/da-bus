@@ -8,9 +8,6 @@ import Home from "./pages/home/index.js";
 
 function App() {
   return (
-    <div>
-      <Home></Home>
-      <Nav></Nav>
     </div>
   );
 }
