@@ -8,6 +8,12 @@ class Home extends React.Component {
     return (
       <div className={style.container}>
         <CornerLogo></CornerLogo>
+        <div className={style.searchContainer}>
+          <h1>Where you like go?</h1>
+          <form>
+            <input></input>
+          </form>
+        </div>
       </div>
     );
   }
