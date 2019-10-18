@@ -1,13 +1,13 @@
 import React from "react";
 //import { Link } from "react-router-dom";
 import style from "./index.module.scss";
+import CornerLogo from "../../components/corner-logo";
 
 class Home extends React.Component {
   render() {
     return (
       <div className={style.container}>
-        <h1>Da Bus</h1>
-        <p>coming soon</p>
+        <CornerLogo></CornerLogo>
       </div>
     );
   }
