@@ -24,7 +24,8 @@ export default class Nav extends Component {
               </Link>
             </li>
             <li>
-              <Link to="/about">About</Link>
+              <Link to="/about">
+              </Link>
             </li>
             <li>
               <Link to="/login">Login</Link>
