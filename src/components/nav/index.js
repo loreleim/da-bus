@@ -30,7 +30,8 @@ export default class Nav extends Component {
               </Link>
             </li>
             <li>
-              <Link to="/login">Login</Link>
+              <Link to="/login">
+              </Link>
             </li>
           </ul>
         </nav>
