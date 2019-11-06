@@ -1,6 +1,7 @@
 import React, { Component } from "react";
 import { Link } from "react-router-dom";
 import style from "./index.module.scss";
+import { ReactComponent as TripPlannerSVG } from "../../images/trip-planner.svg";
 
 export default class Nav extends Component {
   render() {
