@@ -31,6 +31,7 @@ export default class Nav extends Component {
             </li>
             <li>
               <Link to="/login">
+                <span className={style.fares}>Login</span>
               </Link>
             </li>
           </ul>
