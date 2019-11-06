@@ -13,7 +13,7 @@ export default class Nav extends Component {
           <ul className={style.navUl}>
             <li>
               <Link to="/fares">
-                <FaresSVG></FaresSVG>
+                <FaresSVG className={style.daSVGs}></FaresSVG>
                 <span className={style.fares}>Fares</span>
               </Link>
             </li>
