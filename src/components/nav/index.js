@@ -9,8 +9,8 @@ export default class Nav extends Component {
   render() {
     return (
       <div className={style.container}>
-        <nav>
           <ul>
+        <nav className={style.navContainer}>
             <li>
               <Link to="/fares">
                 <FaresSVG></FaresSVG>
