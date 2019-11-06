@@ -32,6 +32,13 @@
   width: 100%;
   font-size: 1rem;
   font-family: "Open Sans", sans-serif;
+
+  &:focus + label {
+    font-weight: bold;
+    color: white;
+    transform: translate(-20rem, -2rem);
+  }
+}
 }
 
 .littleDot {
