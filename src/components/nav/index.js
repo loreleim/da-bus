@@ -19,7 +19,7 @@ export default class Nav extends Component {
             </li>
             <li>
               <Link to="/tripplanner">
-                <TripPlannerSVG></TripPlannerSVG>
+                <TripPlannerSVG className={style.daSVGs}></TripPlannerSVG>
                 <span className={style.fares}>Trip Planner</span>
               </Link>
             </li>
