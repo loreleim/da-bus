@@ -14,25 +14,25 @@ export default class Nav extends Component {
             <li>
               <Link to="/fares">
                 <FaresSVG className={style.daSVGs}></FaresSVG>
-                <span className={style.fares}>Fares</span>
+                <span className={style.iconLabel}>Fares</span>
               </Link>
             </li>
             <li>
               <Link to="/tripplanner">
                 <TripPlannerSVG className={style.daSVGs}></TripPlannerSVG>
-                <span className={style.fares}>Trip Planner</span>
+                <span className={style.iconLabel}>Trip Planner</span>
               </Link>
             </li>
             <li>
               <Link to="/about">
                 <AboutSVG className={style.daSVGs}></AboutSVG>
-                <span className={style.fares}>About</span>
+                <span className={style.iconLabel}>About</span>
               </Link>
             </li>
             <li>
               <Link to="/login">
                 <div className={style.loginCircle}></div>
-                <span className={style.fares}>Login</span>
+                <span className={style.iconLabel}>Login</span>
               </Link>
             </li>
           </ul>
