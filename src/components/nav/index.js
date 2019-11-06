@@ -25,6 +25,7 @@ export default class Nav extends Component {
             </li>
             <li>
               <Link to="/about">
+                <AboutSVG className={style.daSVGs}></AboutSVG>
               </Link>
             </li>
             <li>
