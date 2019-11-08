@@ -16,7 +16,7 @@ class Home extends React.Component {
             <form>
               <div className={style.mainInputContainer}>
                 <input className={style.searchInput}></input>
-                <label>Something</label>
+                <label>Starting Location</label>
                 <input className={style.searchInput}></input>
               </div>
               <div>
