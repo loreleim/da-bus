@@ -34,22 +34,12 @@
   font-family: "Open Sans", sans-serif;
 
   &:focus + label {
+    font-family: "Fira Sans", sans-serif;
+    font-size: 0.75rem;
     font-weight: bold;
     color: white;
     transform: translate(-20rem, -2rem);
   }
-}
-
-input {
-  border-style: none;
-  margin-top: 1rem;
-  height: 2.5rem;
-  padding: 0.5rem;
-}
-
-input:focus {
-  outline: none !important;
-  //border: 2px $darkestcolor;
 }
 
 label {
@@ -57,8 +47,21 @@ label {
   position: absolute;
   transition: 0.2s;
   font-size: 1rem;
-  transform: translate(1rem, -2rem);
+  transform: translate(-15.5rem, 2.5rem);
   color: $primarycolor;
+  width: fit-content;
+}
+
+input {
+  border-style: none;
+  margin-top: 2rem;
+  height: 2.5rem;
+  padding: 0.5rem;
+}
+
+input:focus {
+  outline: none !important;
+  //border: 2px $darkestcolor;
 }
 
 .littleDot {
