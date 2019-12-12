@@ -16,8 +16,15 @@ class Home extends React.Component {
             <form action="#">
               <div className={style.mainInputContainer}>
                 <div>
+                  <input
+                    type="text"
                     required
+                    autoComplete="off"
+                    className={style.searchInput}
+                  ></input>
+                  <label>Starting Location</label>
                 </div>
+
                 <div>
                   <input
                     type="text"
