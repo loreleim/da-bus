@@ -1,17 +1,20 @@
 {
   "files": {
-    "main.css": "/da-bus/static/css/main.aa939aae.chunk.css",
-    "main.js": "/da-bus/static/js/main.9783ce53.chunk.js",
-    "main.js.map": "/da-bus/static/js/main.9783ce53.chunk.js.map",
-    "runtime-main.js": "/da-bus/static/js/runtime-main.0a1a1cf6.js",
-    "runtime-main.js.map": "/da-bus/static/js/runtime-main.0a1a1cf6.js.map",
-    "static/js/2.3e9fe96a.chunk.js": "/da-bus/static/js/2.3e9fe96a.chunk.js",
-    "static/js/2.3e9fe96a.chunk.js.map": "/da-bus/static/js/2.3e9fe96a.chunk.js.map",
-    "index.html": "/da-bus/index.html",
-    "precache-manifest.e08d630d145ac09cb7aa3d8d1b138efa.js": "/da-bus/precache-manifest.e08d630d145ac09cb7aa3d8d1b138efa.js",
-    "service-worker.js": "/da-bus/service-worker.js",
-    "static/css/main.aa939aae.chunk.css.map": "/da-bus/static/css/main.aa939aae.chunk.css.map",
-    "static/media/dabus.147d0449.svg": "/da-bus/static/media/dabus.147d0449.svg",
-    "static/media/index.module.scss": "/da-bus/static/media/home-map.bfc485e0.png"
+    "main.css": "/static/css/main.5b204d55.chunk.css",
+    "main.js": "/static/js/main.d3077899.chunk.js",
+    "main.js.map": "/static/js/main.d3077899.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.26501268.js",
+    "runtime-main.js.map": "/static/js/runtime-main.26501268.js.map",
+    "static/js/2.33d09da3.chunk.js": "/static/js/2.33d09da3.chunk.js",
+    "static/js/2.33d09da3.chunk.js.map": "/static/js/2.33d09da3.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.fab005553e11c9f6e050b579ab639502.js": "/precache-manifest.fab005553e11c9f6e050b579ab639502.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.5b204d55.chunk.css.map": "/static/css/main.5b204d55.chunk.css.map",
+    "static/media/about.bc5e4be9.svg": "/static/media/about.bc5e4be9.svg",
+    "static/media/dabus.147d0449.svg": "/static/media/dabus.147d0449.svg",
+    "static/media/fares.70cfbd74.svg": "/static/media/fares.70cfbd74.svg",
+    "static/media/index.module.scss": "/static/media/home-map.bfc485e0.png",
+    "static/media/trip-planner.99ba4865.svg": "/static/media/trip-planner.99ba4865.svg"
   }
 }
