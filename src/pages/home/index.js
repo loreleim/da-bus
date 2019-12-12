@@ -13,11 +13,7 @@ class Home extends React.Component {
           <CornerLogo></CornerLogo>
           <div className={style.searchContainer}>
             <h1>Where you like go?</h1>
-            <form>
               <div className={style.mainInputContainer}>
-                <input className={style.searchInput}></input>
-                <label>Starting Location</label>
-                <input className={style.searchInput}></input>
               </div>
               <div>
                 <input
