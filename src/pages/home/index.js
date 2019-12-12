@@ -16,8 +16,10 @@ class Home extends React.Component {
             <form action="#">
               <div className={style.mainInputContainer}>
                 <div>
+                    required
                 </div>
                 <div>
+                    required
                 </div>
               </div>
               <div>
