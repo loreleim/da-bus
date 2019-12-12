@@ -15,6 +15,10 @@ class Home extends React.Component {
             <h1>Where you like go?</h1>
             <form action="#">
               <div className={style.mainInputContainer}>
+                <div>
+                </div>
+                <div>
+                </div>
               </div>
               <div>
                 <input
