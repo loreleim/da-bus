@@ -19,7 +19,13 @@ class Home extends React.Component {
                     required
                 </div>
                 <div>
+                  <input
+                    type="text"
+                    autoComplete="off"
                     required
+                    className={style.searchInput}
+                  ></input>
+                  <label>Destination</label>
                 </div>
               </div>
               <div>
