@@ -1,6 +1,6 @@
 # Da Bus Hawai'i
 
-Travel da aina with this revamped version of the Hawai'i Transit System! [Da Bus Hawaii](https://dabushawaii.com). Check it out [here](https://dabushawaii.com). This version has been optimized for mobile displays.
+Travel da aina with this (in-progress) revamped version of the Hawai'i Transit System! [Da Bus Hawaii](https://dabushawaii.com). 
 
 ## Installing
 
