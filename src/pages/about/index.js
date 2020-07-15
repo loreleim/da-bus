@@ -1,5 +1,5 @@
 import React from "react";
-//import { observer, inject } from "mobx-react";
+import xml2js from "xml2js";
 
 class About extends React.Component {
   render() {
@@ -12,4 +12,3 @@ class About extends React.Component {
 }
 
 export default About;
-//export default inject("appData")(observer(Card));
