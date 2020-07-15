@@ -28,27 +28,45 @@
   width: 100%;
 }
 
-label {
-  font-family: "Open Sans", sans-serif;
-  position: absolute;
-  transition: 0.2s;
-  font-size: 1rem;
-  transform: translate(-55rem, 2.5rem);
-  color: $primarycolor;
-  width: fit-content;
+.homeInput {
+  margin-top: 2rem;
 }
 
-.searchInput {
-  width: 100%;
-  font-size: 1rem;
+input {
+  border-style: none;
+  height: 2.5rem;
+  padding-left: 0.5rem;
+
+  &:focus + label {
+    color: white;
+    transform: translateY(-1.75rem);
+  }
+}
+
+label {
   font-family: "Open Sans", sans-serif;
+  transition: 0.2s;
+  font-size: 1rem;
+  color: red;
+  width: fit-content;
+  left: 0;
+  position: absolute;
+  transform: translateY(0.5rem);
+  padding-left: 2.5rem;
+}
+
+/*input {
+  border-style: none;
+  margin-top: 1rem;
+  height: 2.5rem;
+  padding: 0.5rem;
 
   &:focus + label {
     font-family: "Fira Sans", sans-serif;
     font-size: 0.75rem;
     font-weight: bold;
     color: white;
-    transform: translate(-55rem, 0.5rem);
+    transform: translateY(-0.4rem);
   }
 
   &:valid + label {
@@ -56,20 +74,30 @@ label {
     font-size: 0.75rem;
     font-weight: bold;
     color: white;
-    transform: translate(-55rem, 0.5rem);
+    //transform: translateY(0rem);
   }
-}
+}*/
 
-input {
-  border-style: none;
-  margin-top: 2rem;
-  height: 2.5rem;
-  padding: 0.5rem;
-}
+/*label {
+  font-family: "Open Sans", sans-serif;
+  position: absolute;
+  transition: 0.2s;
+  font-size: 1rem;
+  transform: translateY(1.5rem);
+  padding-left: 1rem;
+  color: $primarycolor;
+  width: fit-content;
+}*/
 
-input:focus {
-  outline: none !important;
-  //border: 2px $darkestcolor;
+.searchInput {
+  width: 100%;
+  font-size: 1rem;
+  font-family: "Open Sans", sans-serif;
+
+  &:focus {
+    outline: none !important;
+    border: 1rem red;
+  }
 }
 
 .littleDot {

@@ -15,7 +15,7 @@ class Home extends React.Component {
             <h1>Where you like go?</h1>
             <form action="#">
               <div className={style.mainInputContainer}>
-                <div>
+                <div className={style.homeInput}>
                   <input
                     type="text"
                     required
@@ -25,7 +25,7 @@ class Home extends React.Component {
                   <label>Starting Location</label>
                 </div>
 
-                <div>
+                <div className={style.homeInput}>
                   <input
                     type="text"
                     autoComplete="off"
@@ -35,7 +35,7 @@ class Home extends React.Component {
                   <label>Destination</label>
                 </div>
               </div>
-              <div>
+              <div className={style.homeInput}>
                 <input
                   type="button"
                   value="We Go"
