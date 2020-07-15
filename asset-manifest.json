@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/da-bus/static/css/main.88b13143.chunk.css",
-    "main.js": "/da-bus/static/js/main.d66953ce.chunk.js",
-    "main.js.map": "/da-bus/static/js/main.d66953ce.chunk.js.map",
-    "runtime-main.js": "/da-bus/static/js/runtime-main.a5a4d265.js",
-    "runtime-main.js.map": "/da-bus/static/js/runtime-main.a5a4d265.js.map",
-    "static/js/2.6b014cb1.chunk.js": "/da-bus/static/js/2.6b014cb1.chunk.js",
-    "static/js/2.6b014cb1.chunk.js.map": "/da-bus/static/js/2.6b014cb1.chunk.js.map",
-    "index.html": "/da-bus/index.html",
-    "precache-manifest.1e5e3ced0af96e17bc7c00ef249693e8.js": "/da-bus/precache-manifest.1e5e3ced0af96e17bc7c00ef249693e8.js",
-    "service-worker.js": "/da-bus/service-worker.js",
-    "static/css/main.88b13143.chunk.css.map": "/da-bus/static/css/main.88b13143.chunk.css.map",
-    "static/js/2.6b014cb1.chunk.js.LICENSE.txt": "/da-bus/static/js/2.6b014cb1.chunk.js.LICENSE.txt",
-    "static/media/about.bc5e4be9.svg": "/da-bus/static/media/about.bc5e4be9.svg",
-    "static/media/dabus.147d0449.svg": "/da-bus/static/media/dabus.147d0449.svg",
-    "static/media/fares.70cfbd74.svg": "/da-bus/static/media/fares.70cfbd74.svg",
-    "static/media/index.module.scss": "/da-bus/static/media/home-map.bfc485e0.png",
-    "static/media/trip-planner.99ba4865.svg": "/da-bus/static/media/trip-planner.99ba4865.svg"
+    "main.css": "/static/css/main.e431051c.chunk.css",
+    "main.js": "/static/js/main.d66953ce.chunk.js",
+    "main.js.map": "/static/js/main.d66953ce.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.29d25626.js",
+    "runtime-main.js.map": "/static/js/runtime-main.29d25626.js.map",
+    "static/js/2.95e91ba0.chunk.js": "/static/js/2.95e91ba0.chunk.js",
+    "static/js/2.95e91ba0.chunk.js.map": "/static/js/2.95e91ba0.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.9e5f14380c126f5669a780d6c209786f.js": "/precache-manifest.9e5f14380c126f5669a780d6c209786f.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.e431051c.chunk.css.map": "/static/css/main.e431051c.chunk.css.map",
+    "static/js/2.95e91ba0.chunk.js.LICENSE.txt": "/static/js/2.95e91ba0.chunk.js.LICENSE.txt",
+    "static/media/about.bc5e4be9.svg": "/static/media/about.bc5e4be9.svg",
+    "static/media/dabus.147d0449.svg": "/static/media/dabus.147d0449.svg",
+    "static/media/fares.70cfbd74.svg": "/static/media/fares.70cfbd74.svg",
+    "static/media/index.module.scss": "/static/media/home-map.bfc485e0.png",
+    "static/media/trip-planner.99ba4865.svg": "/static/media/trip-planner.99ba4865.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.a5a4d265.js",
-    "static/js/2.6b014cb1.chunk.js",
-    "static/css/main.88b13143.chunk.css",
+    "static/js/runtime-main.29d25626.js",
+    "static/js/2.95e91ba0.chunk.js",
+    "static/css/main.e431051c.chunk.css",
     "static/js/main.d66953ce.chunk.js"
   ]
 }
