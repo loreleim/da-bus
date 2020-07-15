@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "63d467864cf3a1c0b20b4ff5f7b81b2b",
+    "revision": "44b04e78a3475ce8e6bc1380f401256c",
     "url": "/da-bus/index.html"
   },
   {
-    "revision": "ce06f9bb2f87205fed12",
+    "revision": "83162922825165720f85",
     "url": "/da-bus/static/css/main.88b13143.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/da-bus/static/js/2.6b014cb1.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "ce06f9bb2f87205fed12",
-    "url": "/da-bus/static/js/main.3acdf669.chunk.js"
+    "revision": "83162922825165720f85",
+    "url": "/da-bus/static/js/main.2d73524f.chunk.js"
   },
   {
     "revision": "ceab096d67cb9218bb51",
