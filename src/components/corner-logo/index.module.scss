@@ -1,4 +1,9 @@
 .container {
   width: 7rem;
   height: 7rem;
+
+  &:hover {
+    transform: scale(1.1);
+    transition: 0.2s;
+  }
 }

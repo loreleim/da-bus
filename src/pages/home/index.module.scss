@@ -32,7 +32,7 @@
   margin-top: 2rem;
 }
 
-input {
+.searchContainer input {
   border-style: none;
   height: 2.5rem;
   padding-left: 0.5rem;
@@ -54,7 +54,7 @@ input {
   }
 }
 
-label {
+.searchContainer label {
   font-family: "Open Sans", sans-serif;
   transition: 0.2s;
   font-size: 1rem;
