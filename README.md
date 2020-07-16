@@ -11,6 +11,18 @@ following repository to your personal computer and run it through your code edit
 ```
 npm install
 ```
+For XML to JSON
+```
+npm install
+```
+For Google Maps
+```
+npm install --save react-google-maps
+```
+For Account Handling
+```
+npm install
+```
 
 ## Running
 
