@@ -17,7 +17,7 @@ npm install
 ```
 For Google Maps
 ```
-npm install --save react-google-maps
+npm i -s @react-google-maps/api
 ```
 For Account Handling
 ```
