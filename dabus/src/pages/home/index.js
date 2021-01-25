@@ -13,6 +13,8 @@ class Home extends React.Component {
               <div>
                 <input className={style.searchInput}></input>
                 <input className={style.searchInput}></input>
+                <input name="route" required className={style.searchInput}></input>
+                <label for="route">Enter route or stop number</label>
               </div>
                 <input
                   type="button"
