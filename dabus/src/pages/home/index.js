@@ -9,8 +9,7 @@ class Home extends React.Component {
         <div className={style.purpleContainer}>
           <CornerLogo></CornerLogo>
           <div className={style.searchContainer}>
-            <h1>Where you like go?</h1>
-            <form>
+            <h1>View Bus Arrivals &amp; Service Alerts</h1>
               <div>
                 <input className={style.searchInput}></input>
                 <input className={style.searchInput}></input>
