@@ -12,7 +12,7 @@ class Home extends React.Component {
             <h1>View Bus Arrivals &amp; Service Alerts</h1>
             <form className={style.searchForm}>
               <div>
-                <input name="route" required className={style.searchInput}></input>
+                <input name="route" autoComplete="none" required className={style.searchInput}></input>
                 <label for="route">Enter route or stop number</label>
               </div>
                 <input
