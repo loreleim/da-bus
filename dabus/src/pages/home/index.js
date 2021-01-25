@@ -14,13 +14,11 @@ class Home extends React.Component {
                 <input className={style.searchInput}></input>
                 <input className={style.searchInput}></input>
               </div>
-              <div>
                 <input
                   type="button"
                   value="We Go"
                   className={style.button}
                 ></input>
-              </div>
             </form>
           </div>
         </div>
