@@ -5,7 +5,7 @@ import style from "./index.module.scss";
 export default class Nav extends Component {
   render() {
     return (
-      <div className={style.container}>
+      <div className={style.navContainer}>
         <nav>
           <ul>
             <li>
