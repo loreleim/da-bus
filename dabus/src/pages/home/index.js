@@ -6,6 +6,7 @@ class Home extends React.Component {
   render() {
     return (
       <div className={style.mainContainer}>
+        <div className={style.purpleContainer}>
           <CornerLogo></CornerLogo>
           <div className={style.searchContainer}>
             <h1>Where you like go?</h1>
@@ -24,6 +25,8 @@ class Home extends React.Component {
             </form>
           </div>
         </div>
+        {/*<div className={style.littleDot}></div>
+        <div className={style.bigDot}></div>*/}
       </div>
     );
   }
