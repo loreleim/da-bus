@@ -11,8 +11,6 @@ class Home extends React.Component {
           <div className={style.searchContainer}>
             <h1>View Bus Arrivals &amp; Service Alerts</h1>
               <div>
-                <input className={style.searchInput}></input>
-                <input className={style.searchInput}></input>
                 <input name="route" required className={style.searchInput}></input>
                 <label for="route">Enter route or stop number</label>
               </div>
