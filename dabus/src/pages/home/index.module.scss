@@ -27,6 +27,30 @@
   width: 100%;
   font-size: 1rem;
   font-family: "Open Sans", sans-serif;
+
+  &:focus + label {
+    font-family: "Fira Sans", sans-serif;
+    transform: translateY(0.2rem);
+    color: white;
+  }
+
+  &:valid + label {
+    font-family: "Fira Sans", sans-serif;
+    transform: translateY(0.2rem);
+    color: white;
+  }
+}
+
+.searchContainer label {
+  font-family: "Open Sans", sans-serif;
+  transition: 0.2s;
+  font-size: 0.8rem;
+  color: #34364c;
+  width: fit-content;
+  left: 0;
+  position: absolute;
+  transform: translateY(2.6rem);
+  padding-left: 2.5rem;
   pointer-events: none;
 }
 
