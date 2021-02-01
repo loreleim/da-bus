@@ -2,12 +2,12 @@
 
 Travel da aina with this (in-progress) revamped version of the Hawai'i Transit System! [Da Bus Hawaii](https://dabushawaii.com). 
 
-<img align="center" alt="Cardboard fridge with onion keyboard" width="500px" src="https://raw.githubusercontent.com/loreleim/dabus/master/dabus/src/images/readme/bus-thumbnail.jpg" />
+<img align="center" alt="Cardboard fridge with onion keyboard" width="500px" src="https://raw.githubusercontent.com/loreleim/dabus/master/dabus/src/images/readme/bus-thumbnail.jpgraw=?true" />
 
 ## Table of Contents
 1. [Development Setup](#development-setup)
-* [Running](#running)
-* [Workflow](#workflow)
+  1. [Running](#running)
+  1. [Workflow](#workflow)
 2. [ACM Standards](#acm-standards)
 
 ## Development Setup
