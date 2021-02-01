@@ -2,7 +2,14 @@
 
 Travel da aina with this (in-progress) revamped version of the Hawai'i Transit System! [Da Bus Hawaii](https://dabushawaii.com). 
 
-## Installing
+
+## Table of Contents
+1. [Development Setup](#development-setup)
+* [Running](#running)
+* [Workflow](#workflow)
+1. [ACM Standards](#acm-standards)
+
+## Development Setup
 
 This project uses the node and npm ecosystem to build the tool. Before running or installing the 
 project please download and run [node](https://nodejs.org/en/download/). You will then clone the 
@@ -24,7 +31,7 @@ For Account Handling
 npm install
 ```
 
-## Running
+### Running
 
 To build DaBus/open up a local development server to view live changes, you will open up your code editor's terminal and run the following code:
 
@@ -33,10 +40,6 @@ npm run start
 ```
 
 This way you will be able to view the website in a browser via http://localhost:3000/.
-
-## General Web Info
-
-This project was started in 2018 via a school project. Originally coded in HTML/CSS, the project was moved over to React.js for scalability and CMS capabilities. 
 
 ### Workflow
 
