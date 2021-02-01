@@ -52,4 +52,20 @@ Develop - is where updates and working versions will be pushed, committed and co
 
 For co-development, create your own brach, and commit your changes there. Do a compare call via github, and it will then be merged back into develop.
 
+## Old Interface
+<img align="center" alt="redesign of thumbnails" width="500px" src="https://github.com/loreleim/da-bus/blob/master/dabus/src/images/readme/bus-05.jpg?raw=true" />
+<img align="center" alt="redesign of thumbnails" width="500px" src="https://github.com/loreleim/da-bus/blob/master/dabus/src/images/readme/bus-06.jpg?raw=true" />
+<img align="center" alt="redesign of thumbnails" width="500px" src="https://github.com/loreleim/da-bus/blob/master/dabus/src/images/readme/bus-07.jpg?raw=true" />
+<img align="center" alt="redesign of thumbnails" width="500px" src="https://github.com/loreleim/da-bus/blob/master/dabus/src/images/readme/bus-08.jpg?raw=true" />
+
+
 ## UX Research
+
+
+<img align="center" alt="redesign of thumbnails" width="500px" src="https://github.com/loreleim/da-bus/blob/master/dabus/src/images/readme/bus-01.jpg?raw=true" />
+<img align="center" alt="redesign of thumbnails" width="500px" src="https://github.com/loreleim/da-bus/blob/master/dabus/src/images/readme/bus-02.jpg?raw=true" />
+<img align="center" alt="redesign of thumbnails" width="500px" src="https://github.com/loreleim/da-bus/blob/master/dabus/src/images/readme/bus-03.jpg?raw=true" />
+<img align="center" alt="redesign of thumbnails" width="500px" src="https://github.com/loreleim/da-bus/blob/master/dabus/src/images/readme/bus-04.jpg?raw=true" />
+<img align="center" alt="redesign of thumbnails" width="500px" src="https://github.com/loreleim/da-bus/blob/master/dabus/src/images/readme/bus-09.jpg?raw=true" />
+<img align="center" alt="redesign of thumbnails" width="500px" src="https://github.com/loreleim/da-bus/blob/master/dabus/src/images/readme/bus-10.jpg?raw=true" />
+<img align="center" alt="redesign of thumbnails" width="500px" src="https://github.com/loreleim/da-bus/blob/master/dabus/src/images/readme/bus-11.jpg?raw=true" />
