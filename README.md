@@ -2,7 +2,7 @@
 
 Travel da aina with this (in-progress) revamped version of the Hawai'i Transit System! [Da Bus Hawaii](https://dabushawaii.com). 
 
-<img align="center" alt="Cardboard fridge with onion keyboard" width="500px" src="https://raw.githubusercontent.com/loreleim/dabus/master/dabus/src/images/readme/bus-thumbnail.jpgraw=?true" />
+<img align="center" alt="redesign of thumbnails" width="500px" src="https://github.com/loreleim/da-bus/blob/master/dabus/src/images/readme/bus-thumbnail.jpg?raw=true" />
 
 ## Table of Contents
 1. [Development Setup](#development-setup)
