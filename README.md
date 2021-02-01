@@ -7,8 +7,9 @@ Travel da aina with this (in-progress) revamped version of the Hawai'i Transit S
 ## Table of Contents
 1. [Development Setup](#development-setup)
   1. [Running](#running)
+  1. [Dependencies](#dependencies-overview)
   1. [Workflow](#workflow)
-2. [ACM Standards](#acm-standards)
+2. [UX Research](#ux-research)
 
 ## Development Setup
 
@@ -16,20 +17,20 @@ This project uses the node and npm ecosystem to build the tool. Before running o
 project please download and run [node](https://nodejs.org/en/download/). You will then clone the 
 following repository to your personal computer and run it through your code editor's terminal.
 
+To install all dependencies
 ```
 npm install
 ```
-For XML to JSON
+
+### Dependencies Overview
+
+As of 2020, React-Google-Maps requires a payment plan, utilize Mapbox GL for a workaround
 ```
-npm install
+npm install mapbox-gl --save
 ```
-For Google Maps
+Firebase
 ```
-npm i -s @react-google-maps/api
-```
-For Account Handling
-```
-npm install
+npm install firebase
 ```
 
 ### Running
@@ -50,3 +51,5 @@ Master - features the most recent version of the application, currently live.
 Develop - is where updates and working versions will be pushed, committed and compared branches will be merged here.
 
 For co-development, create your own brach, and commit your changes there. Do a compare call via github, and it will then be merged back into develop.
+
+## UX Research
